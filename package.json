@@ -1,0 +1,24 @@
+{
+  "name": "Simple-Calculation-site---Webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "webpack  --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshit-Chiranjiv/Simple-Calculation-site---Webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshit-Chiranjiv/Simple-Calculation-site---Webpack/issues"
+  },
+  "homepage": "https://github.com/Lakshit-Chiranjiv/Simple-Calculation-site---Webpack#readme",
+  "dependencies": {
+    "webpack": "^5.63.0",
+    "webpack-cli": "^4.9.1"
+  }
+}

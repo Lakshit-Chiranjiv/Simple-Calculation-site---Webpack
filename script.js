@@ -1,11 +1,7 @@
-import { add_btn,sub_btn } from "./src/dom_vars";
-import { add_function } from "./src/funcs/add_func";
-import { subtract_function } from "./src/funcs/sub_func";
+// import path from 'path';
+// const path = require('path');
 
-
-add_btn.addEventListener('click', add_function );
-
-sub_btn.addEventListener('click', subtract_function );
+// console.log(path.join(__dirname,hello.txt));
 
 
 
