@@ -2,6 +2,8 @@ alert('Webpack done  !!!');
 import { add_btn,sub_btn } from "./dom_vars";
 import { add_function } from "./funcs/add_func";
 import { subtract_function } from "./funcs/sub_func";
+
+import "./styles.scss";
 import "./style.css";
 
 
