@@ -2,3 +2,11 @@
     font-weight: 800;
     color: chartreuse;
 }
+
+.add-area{
+    border-radius: 15px 15px 0 0;
+}
+
+.sub-area{
+    border-radius: 0 0 15px 15px;
+}
